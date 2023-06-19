@@ -1,0 +1,87 @@
+body {
+    font-family: Times, serif;
+    color: white;
+    background-color: black;
+}
+.header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h1{
+    background-color: gray;
+    margin: 0%;
+    padding: 20px;
+}
+
+.div1{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+    float: left;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    
+}
+.ul{
+    margin: 0%;
+    padding: 35px;
+}
+.div2{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+    float: left;
+    text-align: center;
+}
+img{
+    padding: 25px;
+}
+.mid-div{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    float: left;
+    text-align: center;
+}
+.para1{
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+.div3{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    text-align: center;
+}
+.div3-col1{
+    width: 35%;
+    height: 100%;
+    background-color: gray;
+    float: left;
+}
+.div3-col2{
+    width: 30%;
+    height: 100%;
+    background-color: black;
+    float: left;
+}
+.div3-col3{
+    width: 35%;
+    height: 100%;
+    background-color: gray;
+    float: left;
+}
+.para{
+    margin: 0%;
+    padding: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+img.i2{
+    border-radius: 50%;
+}
+img.i1{
+    border-radius: 10%;
+}
